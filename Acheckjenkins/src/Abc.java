@@ -1,7 +1,7 @@
 
 public class Abc {
 
-	public static void main(String[] args) {
+	void a() {
 		
 		
 		System.out.println("hello jenkins");
